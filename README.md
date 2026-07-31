@@ -1,1 +1,52 @@
-# High Energy Physics Portfolio This repository documents my preparation for graduate research in particle physics and high-energy physics. ## About me I am Alfonso Palacios Romero, a Mechatronics Engineer currently strengthening my background in mathematics, computational physics, and particle physics with the goal of pursuing formal research in high-energy physics. ## Portfolio structure - Project 001 — Z Boson Reconstruction with CERN Open Data - Project 002 — Monte Carlo Particle Decays - Project 003 — Detector Simulation - Project 004 — Higgs Analysis - Project 005 — Machine Learning for Event Classification ## Tools - Python - NumPy - Matplotlib - Pandas - Jupyter - CERN Open Data ## Goal Build a reproducible and well-documented portfolio focused on computational and experimental techniques used in modern particle physics.
+# High Energy Physics Portfolio
+
+## About this repository
+
+This repository documents my preparation for graduate research in High Energy Physics through computational projects, data analysis, and scientific programming.
+
+My goal is to build a strong foundation in mathematics, physics, and computational methods while developing reproducible projects inspired by modern particle physics research.
+
+---
+
+## About me
+
+**Alfonso Palacios Romero**
+
+Mechatronics Engineer from Instituto Tecnológico de Tehuacán.
+
+Currently preparing for graduate studies in Physics with a particular interest in:
+
+- Particle Physics
+- CERN Open Data
+- Computational Physics
+- Scientific Programming
+- Data Analysis
+
+---
+
+## Portfolio Roadmap
+
+| Project | Status |
+|---------|--------|
+| Project 001 — Z Boson Reconstruction | 🔄 In Progress |
+| Project 002 — Monte Carlo Particle Decays | ⏳ Planned |
+| Project 003 — Detector Simulation | ⏳ Planned |
+| Project 004 — Higgs Analysis | ⏳ Planned |
+| Project 005 — Machine Learning for Particle Classification | ⏳ Planned |
+
+---
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- CERN Open Data
+
+---
+
+## Long-Term Goal
+
+Develop a professional portfolio that demonstrates my preparation for research in experimental high-energy physics.
